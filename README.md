@@ -1,1 +1,3 @@
 # PCA-Iris_with_algebra_steps
+The aim of this work is to explain the theoretical and practical side of PCA using an example of its application. We will begin with very common and simple example from multivariate data analysis in which we will attempt to extract some meaning from a 4 dimensional data set (Fisher’s Iris Dataset). In the meanwhile, we shall discuss the PCA technique in terms of its linear algebra fundamentals (covariance matrix, eigenvalues and eigenvectors computation), this will lead us to a general method for implementing PCA in another real-world situations.
+Download the PCA-Iris_with_algebra_steps.zip file to read the whole document.
